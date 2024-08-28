@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682863256277",
+    "project_id": "newboat",
+    "storage_bucket": "newboat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682863256277:android:79ab5a723408cca158b85c",
+        "android_client_info": {
+          "package_name": "com.newboat.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaSZSt0xIYqFFiwww4mDB2ZUxewAmo1b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
